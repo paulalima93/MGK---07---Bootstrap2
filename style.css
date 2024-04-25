@@ -1,0 +1,26 @@
+/* mudar a cor da fundo do site*/
+body{
+    background-color: rgb(29, 24, 114);
+}
+
+
+.texto{
+    color: hotpink;
+}
+#rodape{
+    color: blue;
+}
+h1{
+    font-family: "Gloria Hallelujah", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(122, 122, 211);
+    padding-left:30px;
+ }
+ img{
+display:block;
+margin:0 auto;
+width:500px;
+height: 500px;
+
+ }
